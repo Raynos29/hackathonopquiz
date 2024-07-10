@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of classical music.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who composed 'The Magic Flute'?",
+      "answers": ["Mozart", "Beethoven", "Bach"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who composed 'The Four Seasons'?",
+      "answers": ["Vivaldi", "Handel", "Bach"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who composed 'Fur Elise'?",
+      "answers": ["Beethoven", "Mozart", "Bach"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Messiah'?",
+      "answers": ["Handel", "Haydn", "Vivaldi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Clair de Lune'?",
+      "answers": ["Debussy", "Ravel", "Satie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Swan Lake'?",
+      "answers": ["Tchaikovsky", "Mozart", "Chopin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Bolero'?",
+      "answers": ["Ravel", "Debussy", "Bizet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Canon in D'?",
+      "answers": ["Pachelbel", "Bach", "Mozart"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Symphony No. 9'?",
+      "answers": ["Beethoven", "Mozart", "Bach"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'The Nutcracker'?",
+      "answers": ["Tchaikovsky", "Beethoven", "Chopin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Carmen'?",
+      "answers": ["Bizet", "Verdi", "Puccini"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Eine kleine Nachtmusik'?",
+      "answers": ["Mozart", "Bach", "Haydn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Rhapsody in Blue'?",
+      "answers": ["Gershwin", "Copland", "Bernstein"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Moonlight Sonata'?",
+      "answers": ["Beethoven", "Mozart", "Bach"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'La Traviata'?",
+      "answers": ["Verdi", "Puccini", "Rossini"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Toccata and Fugue'?",
+      "answers": ["Bach", "Beethoven", "Mozart"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'The Planets'?",
+      "answers": ["Holst", "Elgar", "Vaughan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Peer Gynt Suite'?",
+      "answers": ["Grieg", "Sibelius", "Tchaikovsky"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Carmen'?",
+      "answers": ["Bizet", "Verdi", "Puccini"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who composed 'Hungarian Rhapsody'?",
+      "answers": ["Liszt", "Brahms", "Schubert"],
       "correctAnswerIndex": 0
     }
   ]
